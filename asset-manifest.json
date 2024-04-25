@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mrma-fashion/static/css/main.7befd8f7.css",
+    "main.js": "/mrma-fashion/static/js/main.e7edb079.js",
+    "static/js/453.67a07043.chunk.js": "/mrma-fashion/static/js/453.67a07043.chunk.js",
+    "static/media/Suit.jpg": "/mrma-fashion/static/media/Suit.2d99b134005c44cbbb17.jpg",
+    "static/media/WomanWithSunglasses.jpeg": "/mrma-fashion/static/media/WomanWithSunglasses.9d2b8a81748925194fbf.jpeg",
+    "static/media/ManWithSunglasses2.jpg": "/mrma-fashion/static/media/ManWithSunglasses2.1a36490ead49ef9ecc2b.jpg",
+    "static/media/Shirt.jpeg": "/mrma-fashion/static/media/Shirt.9401cec8f77b8792d78a.jpeg",
+    "static/media/WinterHat.jpeg": "/mrma-fashion/static/media/WinterHat.245371f139141d125665.jpeg",
+    "static/media/ManWithSunglasses.jpeg": "/mrma-fashion/static/media/ManWithSunglasses.e76b67ecdd535a269628.jpeg",
+    "static/media/BoyAtTheSea.webp": "/mrma-fashion/static/media/BoyAtTheSea.c50237efeca6b27c09f6.webp",
+    "static/media/GirlWithPurpleDress.jpg": "/mrma-fashion/static/media/GirlWithPurpleDress.bf724c6aae89b71de95a.jpg",
+    "static/media/WomanHoldingBag.jpg": "/mrma-fashion/static/media/WomanHoldingBag.20eaa5b6e5a8958ba357.jpg",
+    "static/media/Sweater.jpg": "/mrma-fashion/static/media/Sweater.71e00d1ad0a1933e2b42.jpg",
+    "static/media/WomanWithShirt.jpeg": "/mrma-fashion/static/media/WomanWithShirt.bbb1091dd35f3218c643.jpeg",
+    "static/media/ManWithJeansJacket.jpg": "/mrma-fashion/static/media/ManWithJeansJacket.a38fafd06fc297e3f0e8.jpg",
+    "static/media/WomanWithBrownSuit.jpeg": "/mrma-fashion/static/media/WomanWithBrownSuit.f6a8a4a7edf8ba5dadd7.jpeg",
+    "static/media/GirlWithSweatshirt.jpeg": "/mrma-fashion/static/media/GirlWithSweatshirt.10cd737b3034adb7a5c7.jpeg",
+    "static/media/GirlWithBlackDress.jpg": "/mrma-fashion/static/media/GirlWithBlackDress.ca4a7447876db597fa14.jpg",
+    "static/media/WomanWithBlackT-shirt.jpeg": "/mrma-fashion/static/media/WomanWithBlackT-shirt.5a6029a5c0c2810c67e6.jpeg",
+    "static/media/ManWithNavyBlueClothes.jpeg": "/mrma-fashion/static/media/ManWithNavyBlueClothes.2e8b336a2e9de33a86eb.jpeg",
+    "static/media/ManWithT-shirt.jpg": "/mrma-fashion/static/media/ManWithT-shirt.f44b8e1393f7ea502acb.jpg",
+    "static/media/ManWithHoody.webp": "/mrma-fashion/static/media/ManWithHoody.8d5644fa3ccd84db6e00.webp",
+    "static/media/2Girls.jpeg": "/mrma-fashion/static/media/2Girls.07eb8399a3b65c937eff.jpeg",
+    "static/media/T-shirt.jpeg": "/mrma-fashion/static/media/T-shirt.563c2497a4c4e63361ac.jpeg",
+    "index.html": "/mrma-fashion/index.html",
+    "main.7befd8f7.css.map": "/mrma-fashion/static/css/main.7befd8f7.css.map",
+    "main.e7edb079.js.map": "/mrma-fashion/static/js/main.e7edb079.js.map",
+    "453.67a07043.chunk.js.map": "/mrma-fashion/static/js/453.67a07043.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7befd8f7.css",
+    "static/js/main.e7edb079.js"
+  ]
+}
